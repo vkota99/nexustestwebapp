@@ -21,7 +21,7 @@
 <distributionManagement>
   <repository>
     <id>nexustestwebapp</id>
-    <url>http://192.168.56.135:8081/nexus/content/repositories/test</url>
+    <url>http://192.168.56.135:8081/nexus/content/repositories/nexustestwebapp</url>
   </repository>
 </distributionManagement>
 </project>
